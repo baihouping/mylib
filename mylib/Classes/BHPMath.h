@@ -11,6 +11,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface BHPMath : NSObject
 + (NSInteger)sumX:(NSInteger)x y:(NSInteger)y;
++ (NSInteger)minusX:(NSInteger)x y:(NSInteger)y;
 @end
 
 NS_ASSUME_NONNULL_END

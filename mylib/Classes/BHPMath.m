@@ -11,4 +11,8 @@
 + (NSInteger)sumX:(NSInteger)x y:(NSInteger)y{
     return x+y;
 }
+
++ (NSInteger)minusX:(NSInteger)x y:(NSInteger)y {
+    return x-y;
+}
 @end
